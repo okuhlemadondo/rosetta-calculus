@@ -1,0 +1,8 @@
+[project]
+name = "rosetta-calculus"
+version = "0.1.0"
+description = "Rosetta Calculus: typed atoms and combinators with OPAL search"
+authors = [ { name = "Your Name", email = "you@example.com" } ]
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = ["numpy", "scipy"]

@@ -1,0 +1,4 @@
+types:
+  path: {kind: Path, shape: T×C, metric: L2, group: [shift]}
+atoms:
+  - {name: FFT, in: path, out: spectrum, diff: true}
